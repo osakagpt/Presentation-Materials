@@ -1,3 +1,6 @@
-- [ふりかえり](documents/ふりかえり.md)
+- [一年ふりかえり](documents/一年ふりかえり.md)
 - [Dify使ってみた](documents/Dify使ってみた.md)
 - [モデルの記述形式](documents/モデルの記述形式.md)
+- [音声チャットボット](documents/音声チャットボット.md)
+- [TTS](documents/TTS.md)
+- [エコーキャンセリング](documents/エコーキャンセリング.md)
