@@ -1,3 +1,11 @@
+- [GPTの仕組み](documents/gpt2.ipynb)
+- [Attentionメカニズム](documents/attention.ipynb)
+- [トークナイザ(なくした)]()
+- [深層学習と強化学習クラッシュコース](documents/nlp_with_dl_rl.ipynb)
+- [InstructGPT](documents/instructgpt.ipynb)
+- [LoRA](documents/lora.ipynb)
+- [RAG](documents/rag.md)
+
 - [一年ふりかえり](documents/一年ふりかえり.md)
 - [Dify使ってみた](documents/Dify使ってみた.md)
 - [モデルの記述形式](documents/モデルの記述形式.md)
